@@ -1,0 +1,57 @@
+.page
+{
+    height:120px;
+    overflow:scroll;
+    overflow-x:hidden;
+    scroll-behavior: smooth   
+}
+
+.header
+{
+    background: rgb(33, 201, 150);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 30px;
+    padding-left: 1%;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-right: 20%;
+    font-family: Source Code Pro;
+    letter-spacing: 15px;
+}
+
+.post
+{
+
+    border-left: solid;
+    border-left-color:rgb(33, 201, 150);
+    border-left-width: 20px;
+    background: rgba(33, 201, 151, 0.295);
+    color: rgb(77, 83, 83);
+    text-align: left;
+    font-size: 12px;
+    padding: 1px;
+    padding-left: 40px;
+    font-family: Source Code Pro;
+}
+
+.footer
+{
+    background: rgb(33, 201, 150);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 10px;
+    padding: 3px;
+    font-family: Source Code Pro;
+}
+
+#navigationBar
+{
+    font-size: 15px;
+    font-family: Source Code Pro;
+    letter-spacing: 3px;
+    width: 100%;
+    padding-left:100px;
+    padding-right:150px;
+}
+
